@@ -1,1 +1,2 @@
 # Sentiment-Analysis-of-Movie-Reviews
+In this project I implemented various models to classify the sentiment of a movie as positive or negative by taking the input as a text . Preprocessing is done using stemming(NLTK),lemmatization(spacy) and TF-IDF vectorizer . I balanced the data by using undersampling .Different models like Random forest Classifier ,Logistic Regression , Multinomial Naive Bayes are used for classification. At the end Logistic Regression and Multinomial Naive Bayes gave highest accuracy of 89%.
